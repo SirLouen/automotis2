@@ -14,7 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://ibericarcadiz.com/automotis/v2/';
+$config['base_url']	= 'http://localhost/automotis2/';
+//$config['base_url']	= 'http://ibericarcadiz.com/automotis/v2/';
 
 /*
 |--------------------------------------------------------------------------
